@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+//Author: Safa Naaz
 int main()
 {
      int i,num,count=2;
